@@ -1,0 +1,5 @@
+*body{
+    background: url(io.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+}
